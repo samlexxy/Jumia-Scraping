@@ -1,4 +1,4 @@
-# Invisible-Jumia-Scraping-Test
+# Jumia-Scraping
 
 This project contains 2 Scripts.
 
